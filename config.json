@@ -1,0 +1,18 @@
+{
+    "cookie": [
+        {
+            "XSRF-TOKEN": "eyJpdiI6Iko0Wmk2dy9Ic1JuOVVEamQ1bWJjakE9PSIsInZhbHVlIjoiWFZKNlF4KzNWSDFZamk3YWNLdWNwaXM2bVZtS1hBa1hqSFF5OWJMRVVNb3drU1FoekQ0cFcyK2RxWDFMdSt3MkJScXNNZmhPMnpFMk5XL2R6bHZqQmRxQkRqdlptdTFhckpoekhkNW5mMVMzRDNrYlRmZ0RCWUU3aThmREFkd2ciLCJtYWMiOiIyMjZjMWU1ZDE4MGI4M2Y4ZGNmMjc3YjM1MzE5ZWE1ZjI5MDBjZGFjMmIxNjJkZDMyYjk4N2JhNzlkZGJlYTZkIn0%3D",
+            "_session": "eyJpdiI6Ijh1R3NqY1ZVSGlMdWNVQmE0YVlIT1E9PSIsInZhbHVlIjoiQ0puc1JVTWRsMzdXQWZ1TGQ1TUt3dEYwU2RGY0dzZ0Q3N1d2TXRzTkZDdWlmQUo3Vk40WkcvVy8xbFV3NVFubUN1bGV3c2dXbmcxUDVnNUV4ZVBDN1ZqOHpVSTJ1RERrVFllQzlqMDBWSTEyNmE4NWQzQXpUUllCQ1JxbWVPZEkiLCJtYWMiOiIzNzY3ZDA1MmYyYTNhYTE2YzA0Zjg3Y2ZhOTQzYzM4MjUxOTk2OGEwY2ZlZThkZDgzYTJlYWNkNjAxMDg1OGJjIn0%3D"
+        }
+    ],
+    "shareCode": {
+        "common": [],
+        "motherDay": [],
+        "whcanswer": [],
+        "xbanswer": [],
+        "xbpickon": [],
+        "lctopic": []
+    },
+    "logDir": "",
+    "dayDraw": false
+}
