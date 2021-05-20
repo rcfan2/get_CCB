@@ -1,4 +1,4 @@
-name: keepAlive.py
+name: keepAlive
 
 on:
   schedule:
@@ -20,6 +20,6 @@ jobs:
       - name: 'Install requirements'
         run: pip install -r ./requirements.txt 
         
-      - name: 'run keepAlive.py' 
+      - name: 'run keepAlive' 
         run: python3 keepAlive.py 
     
